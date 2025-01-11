@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "path-planning"
+version = "0.1.0"
+description = "Path pa\u007f\u007f\u001b[2~\u007f\u007f\u007f\u007f\u007f\u007f\u007f\u007f\u007f\u007f\u007f\u007f\u007f\u007f\u007f\u007f\u007f\u007f\u001b[3~\u001b[3~\u001b[3~"
+authors = ["Zaki <mohamed.zaki@perpartners.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+networkx = "^3.4.2"
+matplotlib = "^3.10.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
