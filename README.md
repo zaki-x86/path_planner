@@ -45,3 +45,14 @@ Choose your start and endpoint and the solver algorithm:
 
 ![Path finding in a simple maze example](./assets/path-finding-ex1.png)
 
+## Todo
+
+- Implement and add more algorithms by hand.
+- Use Numba and multithreading for concurrency and parallization.
+- Unit testing and benchmarking.
+
+## Future Plans
+
+- Code refactoring and separation of concerns.
+- Integration with ROS2.
+- Rewrite in C++.
